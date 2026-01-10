@@ -21,6 +21,30 @@ With the growing use of large multimodal models (LMMs) like GPT-4, the potential
 
 ---
 
+## 🤖 Interactive Demo: GeoLocator Custom GPT
+
+To facilitate interactive exploration and qualitative analysis, we provide a publicly accessible Custom GPT implementation of GeoLocator:
+
+🔗 GeoLocator (Custom GPT)
+https://chatgpt.com/g/g-qxqvMb6YJ-geolocator
+
+This interactive version allows users to:
+
+Upload images and assess potential geo-privacy leakage
+
+Perform image-based location inference using multimodal reasoning
+
+Explore how visual cues (architecture, signage, vegetation, terrain) contribute to geographic disclosure
+
+The Custom GPT serves as a human-in-the-loop extension of the GeoLocator framework, complementing the quantitative experiments reported in the paper.
+
+Usage Notice:
+This tool is intended for research, educational, and ethical analysis purposes only.
+Any use in publications, benchmarks, or derivative systems should properly cite the original paper and repository.
+
+
+---
+
 ## 📌 Key Contributions
 
 - ✅ Designed **GeoLocator**, an LMM integrated with location inference capabilities  
