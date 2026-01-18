@@ -10,6 +10,16 @@
 > 📄 [Read the full paper](https://doi.org/10.3390/app14167091)
 
 ---
+## 🎥 Demo Video
+
+[![GeoLocator Demo Video](https://img.youtube.com/vi/MpUugz9WdpM/maxresdefault.jpg)](https://youtu.be/MpUugz9WdpM)
+
+🌐 **Interactive Demo Page:**  
+https://gpts-privacy.github.io/auto-demo/
+
+**Context:**  
+*Symposium on Spatiotemporal Data Science – Pre-symposium Training Workshop*  
+*Washington, DC · July 22, 2024*
 
 ## 🧠 Overview
 
