@@ -79,14 +79,26 @@ You can access all supplementary materials, data, code, and figures used in the 
 🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1UtLnIxYT3iB7crGtuaz7iM1CCB0mgxyA?usp=drive_link)
 
 ---
+## 🏛️ Conference Presentation (AAG 2024)
 
-## 📁 Repository Structure
+This work was **accepted for oral presentation** at the **2024 Annual Meeting of the American Association of Geographers (AAG 2024)**, as part of a specialized symposium on GeoAI and deep learning for geospatial research.
+- **Symposium:** *Symposium on GeoAI and Deep Learning for Geospatial Research:  
+  Human-centered Geospatial Data Science III*  
+- **Presenter:** Yifan Yang, University of Southern California
+- **Official AAG Link:** https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/7825/application/32545
 
-```bash
-├── index.html               # Demo landing page
-├── styles.css               # Web styling
-├── .github/
-│   └── workflows/           # GitHub Actions automation
-│       ├── auto-assign.yml
-│       └── proof-html.yml
-└── README.md                # Project overview (you are here)
+**Presentation Schedule:**
+- **Date:** April 19, 2024  
+- **Time:** 10:40 AM – 12:00 PM (UTC−10:00, Hawaii Time)  
+- **Location:** Room 304B (Mānoa), Third Floor, Hawaiʻi Convention Center  
+
+**Paper Title:**  
+*GeoLocator: A Location-Integrated Large Multimodal Model for Inferring Geo-Privacy*
+
+**Research focus:**
+- Large multimodal models (LMMs) for geographic inference  
+- Location-integrated GPT-4–based reasoning  
+- Geo-privacy risks and inference from imagery and social media content  
+- Open-source intelligence (OSINT) and spatial privacy implications  
+
+This presentation represents an early exploration of **multimodal spatial reasoning and geo-privacy inference**, which later informed the author’s broader research agenda in **GeoAI, disaster perception, and interpretable multimodal geospatial intelligence**.
